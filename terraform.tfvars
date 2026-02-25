@@ -7,4 +7,4 @@ cidr_private_subnet  = ["11.0.3.0/24", "11.0.4.0/24"]
 eu_availability_zone = ["eu-west-1a", "eu-west-1b"]
 
 ec2_ami_id = "ami-0ca351c241d836d3b"
-public_key = "AKIA47CRUJQ3CDSBB64S"
+public_key = ""
